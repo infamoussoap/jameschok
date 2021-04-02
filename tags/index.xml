@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on InfamousSoap | James Chok</title>
-    <link>https://infamoussoap.github.io/jameschok.github.io/tags/</link>
+    <link>https://infamoussoap.github.io/jameschok/tags/</link>
     <description>Recent content in Tags on InfamousSoap | James Chok</description>
     <image>
-      <url>https://infamoussoap.github.io/jameschok.github.io/picture.png</url>
-      <link>https://infamoussoap.github.io/jameschok.github.io/picture.png</link>
+      <url>https://infamoussoap.github.io/jameschok/picture.png</url>
+      <link>https://infamoussoap.github.io/jameschok/picture.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://infamoussoap.github.io/jameschok.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://infamoussoap.github.io/jameschok/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
