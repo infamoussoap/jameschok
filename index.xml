@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InfamousSoap | James Chok</title>
+    <link>https://jameschok.github.io/</link>
+    <description>Recent content on InfamousSoap | James Chok</description>
+    <image>
+      <url>https://jameschok.github.io/picture.png</url>
+      <link>https://jameschok.github.io/picture.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jameschok.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://jameschok.github.io/posts/about_me/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jameschok.github.io/posts/about_me/</guid>
+      <description>Hi there, I&amp;rsquo;m a PhD student in the School of Mathematics and Statistics at the University of Sydney.
+My main research is to find new ways to understand machine learning.</description>
+    </item>
+    
+    <item>
+      <title>My Research</title>
+      <link>https://jameschok.github.io/posts/research/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jameschok.github.io/posts/research/</guid>
+      <description>Machines will learn orthogonally.</description>
+    </item>
+    
+  </channel>
+</rss>
