@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on InfamousSoap | James Chok</title>
+    <title>Posts on James Chok | InfamousSoap</title>
     <link>https://infamoussoap.github.io/jameschok/posts/</link>
-    <description>Recent content in Posts on InfamousSoap | James Chok</description>
+    <description>Recent content in Posts on James Chok | InfamousSoap</description>
     <image>
       <url>https://infamoussoap.github.io/jameschok/picture.png</url>
       <link>https://infamoussoap.github.io/jameschok/picture.png</link>
@@ -17,8 +17,8 @@
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://infamoussoap.github.io/jameschok/posts/about_me/</guid>
-      <description>Hi there, I&amp;rsquo;m a PhD student in the School of Mathematics and Statistics at the University of Sydney.
-My main research is to find new ways to understand machine learning.</description>
+      <description>Hi there, I&amp;rsquo;m a PhD student in the School of Mathematics and Statistics at the University of Sydney (USYD), with my research in finding new ways to understand machine learning. I also teach at the USYD, and currently teaching/have taught:
+ QBUS6810: Statistical Learning and Data Mining MATH1002: Linear Algebra MATH1023: Multivariable Calculus and Modelling MATH1011: Applications of Calculus MATH1013: Mathematical Modelling PHAR1812: Basic Pharmaceutical Sciences  I graduated USYD with first class honors, with my research also in machine learning.</description>
     </item>
     
     <item>
@@ -28,6 +28,15 @@ My main research is to find new ways to understand machine learning.</descriptio
       
       <guid>https://infamoussoap.github.io/jameschok/posts/research/</guid>
       <description>Machines will learn orthogonally.</description>
+    </item>
+    
+    <item>
+      <title>My Magnum Opus</title>
+      <link>https://infamoussoap.github.io/jameschok/posts/magnum_opus/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infamoussoap.github.io/jameschok/posts/magnum_opus/</guid>
+      <description>PySoap - Light weight implementation for machine learning.</description>
     </item>
     
   </channel>
