@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/optimization/</link>
+      <atom:link href="http://localhost:1313/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Convex Optimization over a probability simplex</title>
+      <link>http://localhost:1313/publication/convexoptimizationsimplex/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/convexoptimizationsimplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational function approximation with normalized positive denominators</title>
+      <link>http://localhost:1313/publication/rationalfunction/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rationalfunction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization</title>
+      <link>http://localhost:1313/project/portfoliooptimization/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfoliooptimization/</guid>
+      <description>&lt;p&gt;Find the optimal stock to buy to minimize the volatility and maximize the portfolio&amp;rsquo;s returns.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
