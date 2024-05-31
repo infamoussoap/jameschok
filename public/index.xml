@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Constrained Optimization over a Simplex</title>
-      <link>http://localhost:1313/event/2023_12_nain21century/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023_12_nain21century/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -62,9 +54,9 @@
     
     <item>
       <title>Rational Function Approximation as Constrained Optimization</title>
-      <link>http://localhost:1313/event/2023_07_maxwellinstutephdstudent/</link>
+      <link>http://localhost:1313/event/2023_07_nain21century/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023_07_maxwellinstutephdstudent/</guid>
+      <guid>http://localhost:1313/event/2023_07_nain21century/</guid>
       <description></description>
     </item>
     
@@ -73,6 +65,14 @@
       <link>http://localhost:1313/event/2023_06_cfsphd/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/2023_06_cfsphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained Optimization over a Simplex</title>
+      <link>http://localhost:1313/event/2022_12_maxwellinstutephdstudent/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022_12_maxwellinstutephdstudent/</guid>
       <description></description>
     </item>
     
