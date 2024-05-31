@@ -9,8 +9,8 @@ abstract: 'In this talk, I will present a new optimization algorithm to solve co
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-15'
-date_end: '2023-12-15'
+date: '2022-12-15'
+date_end: '2022-12-15'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

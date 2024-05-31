@@ -126,8 +126,8 @@ awards:
 
 ## About Me
 
-I am a PhD student in Applied and Computational Mathematics at the University of Edinburgh. I started the PhD with my supervisor, Dr. Geoffrey M. Vasil, at the University of Sydney. Halfway in, my supervisor got a new job at the University of Edinburgh, and (like Ishmael (Moby-Dick)) I followed him halfway across the world.
+I am a PhD student in Applied and Computational Mathematics at the University of Edinburgh. I started the PhD with my supervisor, Dr. Geoffrey M. Vasil, at the University of Sydney. Halfway in, my supervisor got a new job at the University of Edinburgh, and (like Ishmael from Moby-Dick) I followed him halfway across the world.
 
-My research interests span various disciplines, from optimization, function approximation, extreme value sampling, and machine learning to numerical analysis, statistical mechanics, and stochastic analysis. However, the main thread that combines them all is creating numerical methods to solve a problem and using analysis to prove the technique works.
+My research interests span various disciplines, from optimization, computational linguistics, extreme value sampling, and machine learning to numerical analysis, statistical mechanics, and stochastic analysis. However, the main thread that combines them all is creating numerical methods to solve a problem and using analysis to prove the technique works.
 
-I am currently fascinated by the Langevin equation and the McKean-Vlasov process, and I am looking into applying these equations and models to accelerate algorithms. 
+I am currently fascinated by the Langevin equation and the McKean-Vlasov process, and I am looking into applying these equations and models to accelerate algorithms.

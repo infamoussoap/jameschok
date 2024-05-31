@@ -4,7 +4,7 @@ title: Wigglyness is Diagonalizable - A Novel Approach to Polynomial and Rationa
 event: PG Colloquium - University of Edinburgh
 event_url: https://21stcenturyna.github.io/
 
-summary: Rational Function Approximation.
+summary: Function Approximation.
 abstract: 'Linear regression is a classical framework for modeling linear relationships between variables. To model nonlinear relationships, though, a typical statistics course quickly introduces polynomial regressions for the job. However, they are dismissed just as quickly due to producing unwanted wigglyness in the model. One way to measure a model’s wigglyness is by the l2-norm on its second derivative, ||f”(x)||. In this talk, I will show how orthogonal polynomials linearize a generalized version of this norm, making this wigglyness measure linear with respect to the polynomial coefficient. I will also apply this idea to rational polynomials, an alternate way to model nonlinearity, providing better approximations than polynomial and spline-based methods.'
 
 # Talk start and end times.
